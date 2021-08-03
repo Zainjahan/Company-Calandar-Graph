@@ -82,9 +82,7 @@ export default {
 
       const x1 = d3.scaleBand().domain(months).range([0, x0.bandwidth()]);
 
-      // function make_x_gridlines() {
-      //   return d3.axisBottom(x0);
-      // }
+      
 
       function make_y_gridlines() {
         return d3.axisLeft(y1);
