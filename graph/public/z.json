@@ -1,0 +1,337 @@
+
+[
+    {
+        "company":"Deolonics Implementation",
+        "roles":[
+            {
+                "role":"CEO",
+                "months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":13
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":19
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":0
+
+                    },
+                    {
+                        "month":"APR-2021",
+                        "value":3
+
+                    }
+                ]
+            },
+            {
+                "role":"Director",
+                "months":[
+                    {
+                        "month":"FEB-2021",
+                        "value":1
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":0
+
+                    },
+                    {
+                        "month":"APR-2021",
+                        "value":19
+
+                    }
+                ]
+            },
+            {
+                "role":"Head of CS",
+                "months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":1
+
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":18
+
+                    },
+                    {
+                        "month":"APR-2021",
+                        "value":11
+
+                    }
+                ]
+            },
+            {
+                "role":"Area SM",
+                "months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":20
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":0
+
+                    },
+                    {
+                        "month":"APR-2021",
+                        "value":15
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "company":"Crystal Shield Inc",
+        "roles":[
+            {
+                "role":"CEO",
+                "months":[
+                    {
+                        "month":"APR-2021",
+                        "value":3
+                    },
+                    {
+                        "month":"JAN-2021",
+                        "value":1
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":0
+
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":11
+
+                    }
+                ]
+            },
+            {
+                "role":"Director",
+                "months":[
+                    {
+                        "month":"APR-2021",
+                        "value":0
+                    },
+                     {
+                        "month":"JAN-2021",
+                        "value":3
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":18
+
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":13
+
+                    }
+                ]
+            },
+            {
+                "role":"Head of CS","months":[
+                    {
+                        "month":"APR-2021",
+                        "value":19
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":0
+
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":2
+
+                    }
+                ]
+            },
+            {
+                "role":"Area SM","months":[
+                    {
+                        "month":"APR-2021",
+                        "value":9
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":3
+
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":4
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "company":"GreenClick Implementation Project",
+        "roles":[
+            {
+                "role":"CEO",
+                "months":[
+                    {
+                        "month":"APR-2021",
+                        "value":3
+                    },
+                    {
+                        "month":"JAN-2021",
+                        "value":14
+
+                    },
+                    {
+                        "month":"FEB-2021",
+                        "value":10
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":5
+
+                    }
+                ]
+            },
+            {
+                "role":"Director",
+                "months":[
+                    {
+                        "month":"APR-2021",
+                        "value":19
+                    },
+                     {
+                        "month":"JAN-2021",
+                        "value":6
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":10
+
+                    }
+                ]
+            },
+            {
+                "role":"Head of CS","months":[
+                    {
+                        "month":"APR-2021",
+                        "value":11
+
+                    },
+                    {
+                        "month":"JAN-2021",
+                        "value":5
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":15
+
+                    }
+                ]
+            },
+            {
+                "role":"Area SM","months":[
+                    {
+                        "month":"APR-2021",
+                        "value":15
+
+                    },
+                    {
+                        "month":"JAN-2021",
+                        "value":1
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":16
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "company":"Crystal Shield",
+        "roles":[
+            {
+                "role":"CEO",
+                "months":[
+                    {
+                        "month":"FEB-2021",
+                        "value":20
+                    },
+                    {
+                        "month":"JAN-2021",
+                        "value":12
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":4
+
+                    }
+                ]
+            },
+            {
+                "role":"Director",
+                "months":[
+                    {
+                        "month":"FEB-2021",
+                        "value":5
+                    },
+                     {
+                        "month":"JAN-2021",
+                        "value":0
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":0
+
+                    }
+                ]
+            },
+            {
+                "role":"Head of CS","months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":16
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":8
+
+                    }
+                ]
+            },
+            {
+                "role":"Area SM","months":[
+                    {
+                        "month":"JAN-2021",
+                        "value":17
+
+                    },
+                    {
+                        "month":"MAR-2021",
+                        "value":18
+
+                    }
+                ]
+            }
+        ]
+    }
+
+]
+
